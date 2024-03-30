@@ -20,7 +20,6 @@ We welcome contributions to improve NarraVerse. If you have ideas for new featur
 Support
 For questions or assistance, please contact us or submit an issue.
 
-Feel free to further customize and expand upon this README as needed.
 
 
 
